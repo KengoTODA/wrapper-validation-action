@@ -24,7 +24,7 @@
   "author": "Gradle",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "1.2.6",
+    "@actions/core": "1.2.7",
     "typed-rest-client": "1.7.3",
     "unhomoglyph": "1.0.6"
   },
